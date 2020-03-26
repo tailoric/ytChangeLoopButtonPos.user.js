@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  puts the button for the loop option in the right click menu on the 3rd item
 // @author       tailoric
-// @include      https://www.youtube.com/watch?v=*
+// @include      https://www.youtube.com/*
 // @include      https://youtu.be/*
 // @grant        none
 // ==/UserScript==
