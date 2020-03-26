@@ -6,7 +6,6 @@
 // @author       tailoric
 // @include      https://www.youtube.com/watch?v=*
 // @include      https://youtu.be/*
-// @downloadUrl  
 // @grant        none
 // ==/UserScript==
 
